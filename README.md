@@ -32,7 +32,7 @@ através de uma interface gráfica simples.
 
 # 📋Pré-requisitos do sistema:
 
-> Python 13.3
+> Python 3.13
 
 ## 🛠️Tecnologias utilizadas:
 
@@ -41,7 +41,7 @@ Visual Studio Code
 
 ## Versões:
 
-> Python 13.3
+> Python 3.13
 
 ## Autores:
 
